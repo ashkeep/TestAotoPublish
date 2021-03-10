@@ -13,7 +13,7 @@ public class TestController {
     @RequestMapping("/hello")
     @ResponseBody
     public String Test(){
-        return "hello worldhh4444h";
+        return "hello world";
     }
 
 
